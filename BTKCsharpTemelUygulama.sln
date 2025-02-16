@@ -23,13 +23,28 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U9_yaptigimiz_ornetklerin_u
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U10_kosullu_ifade_uygulamasi", "U10_kosullu_ifade_uygulamasi\U10_kosullu_ifade_uygulamasi.csproj", "{17A6E422-9A78-4E62-A034-E8BBE4ABC59B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U11_buyuk_kucuk_sayi_bulma", "U11_buyuk_kucuk_sayi_bulma\U11_buyuk_kucuk_sayi_bulma.csproj", "{D549D766-0500-49C2-9842-76D6D145FFAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U12_not_ortalama_uygulamasi", "U12_not_ortalama_uygulamasi\U12_not_ortalama_uygulamasi.csproj", "{30F702F5-2199-4686-87B9-528FEC42C17D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U13_askerlik_durumu_sorgulama_uygulamasi", "U13_askerlik_durumu_sorgulama_uygulamasi\U13_askerlik_durumu_sorgulama_uygulamasi.csproj", "{1E8F855F-B32D-4D25-97A2-AC3798408C3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U14_switch_ile_gunler_uygulamasi", "U15_switch_ile_gunler_uygulamasi\U14_switch_ile_gunler_uygulamasi.csproj", "{2467C612-5587-43BF-9A81-103E393913BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U15_switch_ile_ort_hesaplama_uygulamasi", "U15_switch_ile_ort_hesaplama_uygulamasi\U15_switch_ile_ort_hesaplama_uygulamasi.csproj", "{818BEC78-109A-4A14-BD13-639182EFEF74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U16_for_dongusu_uygulamasi", "U16_for_dongusu_uygulamasi\U16_for_dongusu_uygulamasi.csproj", "{CDD9BB56-7491-440F-ABA5-69B2183CAC08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U17_yasini_adi_kadar_yazan_program_uygulamasi", "U17_yasini_adi_kadar_yazan_program_uygulamasi\U17_yasini_adi_kadar_yazan_program_uygulamasi.csproj", "{759C2352-C22D-4AD7-BA8D-607664ED3DE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U18_girilen5_sayilarin_ortalamasini_alan_program_uygulamasi", "U18_girilen5_sayilarin_ortalamasini_alan_program_uygulamasi\U18_girilen5_sayilarin_ortalamasini_alan_program_uygulamasi.csproj", "{12E5C780-6835-48C9-BEC5-DC4086B5677B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "U19_enkucuk_enbuyuk_sayilar_uygulamasi", "U19_enkucuk_enbuyuk_sayilar_uygulamasi\U19_enkucuk_enbuyuk_sayilar_uygulamasi.csproj", "{F5FA5BE7-2D55-4FE2-AE59-7B8D6202809D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{C8A52D9F-A080-4DC5-84A0-FD3096770459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -72,5 +87,44 @@ Global
 		{17A6E422-9A78-4E62-A034-E8BBE4ABC59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17A6E422-9A78-4E62-A034-E8BBE4ABC59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17A6E422-9A78-4E62-A034-E8BBE4ABC59B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D549D766-0500-49C2-9842-76D6D145FFAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D549D766-0500-49C2-9842-76D6D145FFAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D549D766-0500-49C2-9842-76D6D145FFAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D549D766-0500-49C2-9842-76D6D145FFAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30F702F5-2199-4686-87B9-528FEC42C17D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30F702F5-2199-4686-87B9-528FEC42C17D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30F702F5-2199-4686-87B9-528FEC42C17D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30F702F5-2199-4686-87B9-528FEC42C17D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E8F855F-B32D-4D25-97A2-AC3798408C3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8F855F-B32D-4D25-97A2-AC3798408C3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8F855F-B32D-4D25-97A2-AC3798408C3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8F855F-B32D-4D25-97A2-AC3798408C3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2467C612-5587-43BF-9A81-103E393913BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2467C612-5587-43BF-9A81-103E393913BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2467C612-5587-43BF-9A81-103E393913BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2467C612-5587-43BF-9A81-103E393913BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818BEC78-109A-4A14-BD13-639182EFEF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818BEC78-109A-4A14-BD13-639182EFEF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818BEC78-109A-4A14-BD13-639182EFEF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818BEC78-109A-4A14-BD13-639182EFEF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD9BB56-7491-440F-ABA5-69B2183CAC08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD9BB56-7491-440F-ABA5-69B2183CAC08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD9BB56-7491-440F-ABA5-69B2183CAC08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD9BB56-7491-440F-ABA5-69B2183CAC08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{759C2352-C22D-4AD7-BA8D-607664ED3DE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{759C2352-C22D-4AD7-BA8D-607664ED3DE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{759C2352-C22D-4AD7-BA8D-607664ED3DE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{759C2352-C22D-4AD7-BA8D-607664ED3DE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12E5C780-6835-48C9-BEC5-DC4086B5677B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12E5C780-6835-48C9-BEC5-DC4086B5677B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12E5C780-6835-48C9-BEC5-DC4086B5677B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12E5C780-6835-48C9-BEC5-DC4086B5677B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5FA5BE7-2D55-4FE2-AE59-7B8D6202809D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5FA5BE7-2D55-4FE2-AE59-7B8D6202809D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5FA5BE7-2D55-4FE2-AE59-7B8D6202809D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5FA5BE7-2D55-4FE2-AE59-7B8D6202809D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal
